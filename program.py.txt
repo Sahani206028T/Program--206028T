@@ -1,5 +1,6 @@
-name = 'Tony'
+from Object import object
+
+object = Object('A')
 print('Hello World')
 
-print(value)
- 
+print(object.name)
