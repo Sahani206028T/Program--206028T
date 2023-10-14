@@ -1,6 +1,8 @@
 from Object import object
 
-object = Object('A')
+object1= Object('A')
+object2= Object('B')
 print('Hello World')
 
-print(object.name)
+print(object1.name)
+print(object2.name)

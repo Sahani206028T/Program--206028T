@@ -1,4 +1,4 @@
 class object:
-    name = ""
-    def __init__(self,name):
-        self.name = name
+    owner = ""
+    def __init__(self,owner):
+        self.name = owner
