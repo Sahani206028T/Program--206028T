@@ -1,4 +1,4 @@
 class Hope:
-    name = ""
-    def __init__(self,name):
-        self.name = name
+    date = ""
+    def __init__(self,date):
+        self.name = date
