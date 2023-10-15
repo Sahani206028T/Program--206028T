@@ -6,3 +6,5 @@ print('Hello World')
 
 print(object1.name)
 print(object2.name)
+
+Thank you for the code
